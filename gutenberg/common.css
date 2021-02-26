@@ -1,0 +1,43 @@
+body {
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Bookman Old Style", "Times New Roman", serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #242424; /* :D */
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+    color: #4d4240;
+    line-height: 2em;
+    margin-bottom: 1.3em;
+}
+
+img {
+    border: 1px solid #4d4240;
+    border-radius: 1.5%;
+    max-width: 50%;
+}
+
+figcaption {
+    text-align: center;
+    font-style: bold;
+
+}
+
+a {
+    color: #a94747;
+    font-size: 1.4em;
+}
+
