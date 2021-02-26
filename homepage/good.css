@@ -1,0 +1,44 @@
+body {
+    font-family: Helvetica, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #E3C567;
+    padding: 2em;
+    margin-bottom: 4em;
+}
+
+.header .container {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .child{
+    flex: 1;
+}
+
+.header img {
+    width: 50%;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 55px;
+}
+
+.container h1 {
+    text-decoration: underline;
+}
+
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    margin-top: 0.5em;
+}

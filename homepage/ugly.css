@@ -1,0 +1,33 @@
+img {
+    width: 50px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+div {
+    width: 30%;
+    background-color: black;
+    color: red;
+}
+
+.container {
+    transform: rotate(20deg);
+}
+
+.header {
+    margin-left: 80%;
+}
+
+.uuv {
+    transform: rotate(-70deg);
+    a
+}
+
+.uur {
+    transform: rotate(70deg);
+    margin-left: 50%;
+    padding: 50px;
+}
